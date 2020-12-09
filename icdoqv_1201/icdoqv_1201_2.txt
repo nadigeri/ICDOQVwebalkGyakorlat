@@ -1,0 +1,3 @@
+SQLite elérése
+
+Bemásoljuk a sqlite3.h fájlt a projekt mappába, majd addoljuk azt a header állományok közé. Ezután buildeljük, majd a #include parancsot alkalmazva összekötjük a fájlt a programmal.
